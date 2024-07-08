@@ -10,9 +10,6 @@ description = "The future of streaming."
 # When set to "true", the generated HTML files are minified.
 minify_html = true
 
-# When set to "true", a feed is automatically generated.
-#generate_feed = true
-
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
 
