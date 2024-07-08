@@ -8,10 +8,11 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v4
+        with:
+          submodules: 'true'
       - name: Install dependencies and build theme
         run: |
           cd themes/boring
-          ls
           yarn install --frozen-lockfile
           yarn build
       - name: build_and_deploy
