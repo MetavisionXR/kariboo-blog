@@ -31,6 +31,8 @@ for idx, row in enumerate(tqdm(response.data)):
     movie_title = row["title"]
     poster_url = row["poster_landscape_url"]
     trailer_url = row["trailer_url"]
+    if trailer_url == "":
+        trailer_url = None
 
     template_data = {}
     template_data["movie_title"] = movie_title

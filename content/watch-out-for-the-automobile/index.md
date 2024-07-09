@@ -6,13 +6,17 @@ date = "2024-07-08"
 
 Experience Watch Out for the Automobile Like Never Before with Kariboo!
 
-<img src="https://filmhub-poster-server.b-cdn.net/0004-8127_watch_out_for_the_automobile_16x9.jpg" alt="movie poster">
+<img src="https://filmhub-poster-server.b-cdn.net/0004-8127_watch_out_for_the_automobile_16x9.jpg" alt="movie poster" loading="lazy">
 
 Step into a new dimension of movie watching with Kariboo, our innovative XR streaming app that brings your favorite films directly to your virtual reality headset. This week, we're highlighting Watch Out for the Automobile, now available for streaming directly through Kariboo. Whether you're a long-time fan of the film or experiencing it for the first time, Kariboo allows you to transform any space into your own private cinema, offering a customizable viewing environment where you decide how and where you watch your movies.
 
-<video id="video" width="100%" controls alt="movie trailer"></video>
+<div class="videoWrapper">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/S8wQ6Szlwkw?si=Jkibe-raLWK9uMYP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
-At Kariboo, we’re committed to making high-quality entertainment accessible and free. You can stream Watch Out for the Automobile at no cost, enjoying a cinema-like experience from the comfort of your own space. Whether you’re at home or on the go, as long as you have your VR headset, a captivating cinematic adventure is just a few clicks away.Getting started is easy:
+At Kariboo, we’re committed to making high-quality entertainment accessible and free. You can stream Watch Out for the Automobile at no cost, enjoying a cinema-like experience from the comfort of your own space. Whether you’re at home or on the go, as long as you have your VR headset, a captivating cinematic adventure is just a few clicks away.
+
+Getting started is easy:
 
 1. Download the app: Available on major VR platforms, Kariboo is easy to set up. Just install the app from your VR device's app store.
 2. Browse the library: Registration is free and you can immediately browse through an extensive collection of films, including classics, blockbusters, and hidden gems.
@@ -21,23 +25,19 @@ At Kariboo, we’re committed to making high-quality entertainment accessible an
 
 Join us at Kariboo and experience Watch Out for the Automobile today. Happy viewing!
 
-<script>
-  var video = document.getElementById('video');
-  if(Hls.isSupported()) {
-    var hls = new Hls();
-    hls.loadSource('');
-    hls.attachMedia(video);
-    hls.on(Hls.Events.MANIFEST_PARSED,function() {
-      video.play();
-  });
- }
- // hls.js is not supported on platforms that do not have Media Source Extensions (MSE) enabled.
- // When the browser has built-in HLS support (check using `canPlayType`), we can provide an HLS manifest (i.e. .m3u8 URL) directly to the video element throught the `src` property.
- // This is using the built-in support of the plain video element, without using hls.js.
-  else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-    video.src = '';
-    video.addEventListener('canplay',function() {
-      video.play();
-    });
-  }
-</script>
+<style>
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  /* 16:9 */
+  padding-top: 0px;
+  height: 0;
+}
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>

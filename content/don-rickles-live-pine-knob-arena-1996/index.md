@@ -6,13 +6,16 @@ date = "2024-07-08"
 
 Experience Don Rickles Live Pine Knob Arena 1996 Like Never Before with Kariboo!
 
-<img src="https://filmhub-poster-server.b-cdn.net/dc38-krxi_don_rickles_live_pine_knob_arena_1996_16x9.jpg" alt="movie poster">
+<img src="https://filmhub-poster-server.b-cdn.net/dc38-krxi_don_rickles_live_pine_knob_arena_1996_16x9.jpg" alt="movie poster" loading="lazy">
 
 Step into a new dimension of movie watching with Kariboo, our innovative XR streaming app that brings your favorite films directly to your virtual reality headset. This week, we're highlighting Don Rickles Live Pine Knob Arena 1996, now available for streaming directly through Kariboo. Whether you're a long-time fan of the film or experiencing it for the first time, Kariboo allows you to transform any space into your own private cinema, offering a customizable viewing environment where you decide how and where you watch your movies.
 
-<video id="video" width="100%" controls alt="movie trailer"></video>
+hellohttps://vz-fb5092e4-932.b-cdn.net/4495c760-3e84-4da8-a5d9-cb32a3896c69/playlist.m3u8world
+<video id="video" width="100%" controls></video>
 
-At Kariboo, we’re committed to making high-quality entertainment accessible and free. You can stream Don Rickles Live Pine Knob Arena 1996 at no cost, enjoying a cinema-like experience from the comfort of your own space. Whether you’re at home or on the go, as long as you have your VR headset, a captivating cinematic adventure is just a few clicks away.Getting started is easy:
+At Kariboo, we’re committed to making high-quality entertainment accessible and free. You can stream Don Rickles Live Pine Knob Arena 1996 at no cost, enjoying a cinema-like experience from the comfort of your own space. Whether you’re at home or on the go, as long as you have your VR headset, a captivating cinematic adventure is just a few clicks away.
+
+Getting started is easy:
 
 1. Download the app: Available on major VR platforms, Kariboo is easy to set up. Just install the app from your VR device's app store.
 2. Browse the library: Registration is free and you can immediately browse through an extensive collection of films, including classics, blockbusters, and hidden gems.
@@ -21,6 +24,7 @@ At Kariboo, we’re committed to making high-quality entertainment accessible an
 
 Join us at Kariboo and experience Don Rickles Live Pine Knob Arena 1996 today. Happy viewing!
 
+  
 <script>
   var video = document.getElementById('video');
   if(Hls.isSupported()) {
