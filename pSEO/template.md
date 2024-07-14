@@ -11,7 +11,6 @@ Experience {{template_data.movie_title}} Like Never Before with Kariboo!
 Step into a new dimension of movie watching with Kariboo, our innovative XR streaming app that brings your favorite films directly to your virtual reality headset. This week, we're highlighting {{template_data.movie_title}}, now available for streaming directly through Kariboo. Whether you're a long-time fan of the film or experiencing it for the first time, Kariboo allows you to transform any space into your own private cinema, offering a customizable viewing environment where you decide how and where you watch your movies.
 
 {% if template_data.trailer_url is not none %}
-hello{{template_data.trailer_url}}world
 <video id="video" width="100%" controls></video>
 {% else %}
 <div class="videoWrapper">
