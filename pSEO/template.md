@@ -25,46 +25,6 @@ Immerse yourself in entertainment with <a href="https://kari.boo/">Kariboo</a>!
     <td style="padding: 0 10px 0 0; vertical-align: top;">Running&nbsp;Time</td>
     <td>{{template_data.running_time}} minutes</td>
   </tr>
-
-[//]: # (  <tr>)
-
-[//]: # (    <td style="padding: 0 7px 0 0;">{{template_data.gpu_name}}</td>)
-
-[//]: # (    <td>{{template_data.classroom_render_time_current}}</td>)
-
-[//]: # (  </tr>)
-
-[//]: # (  <tr>)
-
-[//]: # (    <td style="padding: 0 7px 0 0;">GeForce GTX 1080</td>)
-
-[//]: # (    <td>{{template_data.classroom_render_time_gtx_1080}}</td>)
-
-[//]: # (  </tr>)
-
-[//]: # (  <tr>)
-
-[//]: # (    <td style="padding: 0 7px 0 0;">GeForce RTX 2060</td>)
-
-[//]: # (    <td>{{template_data.classroom_render_time_rtx_2060}}</td>)
-
-[//]: # (  </tr>)
-
-[//]: # (  <tr>)
-
-[//]: # (    <td style="padding: 0 7px 0 0;">GeForce RTX 4090</td>)
-
-[//]: # (    <td>{{template_data.classroom_render_time_rtx_4090}}</td>)
-
-[//]: # (  </tr>)
-
-[//]: # (  <tr>)
-
-[//]: # (    <td style="padding: 0 7px 0 0;"><a href="https://renderlab.io">RenderLab.io</a></td>)
-
-[//]: # (    <td>{{template_data.classroom_render_time_renderlab}} for <b>{{template_data.classroom_price_renderlab}}</b></td>)
-
-[//]: # (  </tr>)
 </table>
 
 Step into a new dimension of movie watching with <a href="https://kari.boo/">Kariboo</a>, our fun XR streaming app that transforms your space into your own private movie palace! This week, we're highlighting {{template_data.movie_title}}, now streaming for free through <a href="https://kari.boo/">Kariboo</a>. Whether you're a long-time fan of the film or experiencing it for the first time, <a href="https://kari.boo/">Kariboo</a> allows you to transform any space into a customizable viewing environment that lets you decide how and where to watch your favorite films.
