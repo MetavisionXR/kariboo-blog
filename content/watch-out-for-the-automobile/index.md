@@ -4,33 +4,91 @@ date = "2024-07-08"
 +++
 <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 
-Experience Watch Out for the Automobile Like Never Before with Kariboo!
+Immerse yourself in entertainment with <a href="https://kari.boo/">Kariboo</a>!
 
 <img src="https://filmhub-poster-server.b-cdn.net/0004-8127_watch_out_for_the_automobile_16x9.jpg" alt="movie poster" loading="lazy">
 
-Step into a new dimension of movie watching with Kariboo, our innovative XR streaming app that brings your favorite films directly to your virtual reality headset. This week, we're highlighting Watch Out for the Automobile, now available for streaming directly through Kariboo. Whether you're a long-time fan of the film or experiencing it for the first time, Kariboo allows you to transform any space into your own private cinema, offering a customizable viewing environment where you decide how and where you watch your movies.
+<table>
+  <tr>
+    <td style="padding: 0 10px 0 0; vertical-align: top;">Title</td>
+    <td>Watch Out for the Automobile</td>
+  </tr>
+  <tr>
+    <td style="padding: 0 10px 0 0; vertical-align: top;">Description</td>
+    <td>A conflicted detective searches for an insurance agent who steals cars from crooks and corrupt officials in order to anonymously send the profits to the accounts of various orphanages.</td>
+  </tr>
+  <tr>
+    <td style="padding: 0 10px 0 0; vertical-align: top;">Release&nbsp;Year</td>
+    <td>1966</td>
+  </tr>
+  <tr>
+    <td style="padding: 0 10px 0 0; vertical-align: top;">Running&nbsp;Time</td>
+    <td>90 minutes</td>
+  </tr>
+
+[//]: # (  <tr>)
+
+[//]: # (    <td style="padding: 0 7px 0 0;"></td>)
+
+[//]: # (    <td></td>)
+
+[//]: # (  </tr>)
+
+[//]: # (  <tr>)
+
+[//]: # (    <td style="padding: 0 7px 0 0;">GeForce GTX 1080</td>)
+
+[//]: # (    <td></td>)
+
+[//]: # (  </tr>)
+
+[//]: # (  <tr>)
+
+[//]: # (    <td style="padding: 0 7px 0 0;">GeForce RTX 2060</td>)
+
+[//]: # (    <td></td>)
+
+[//]: # (  </tr>)
+
+[//]: # (  <tr>)
+
+[//]: # (    <td style="padding: 0 7px 0 0;">GeForce RTX 4090</td>)
+
+[//]: # (    <td></td>)
+
+[//]: # (  </tr>)
+
+[//]: # (  <tr>)
+
+[//]: # (    <td style="padding: 0 7px 0 0;"><a href="https://renderlab.io">RenderLab.io</a></td>)
+
+[//]: # (    <td> for <b></b></td>)
+
+[//]: # (  </tr>)
+</table>
+
+Step into a new dimension of movie watching with <a href="https://kari.boo/">Kariboo</a>, our fun XR streaming app that transforms your space into your own private movie palace! This week, we're highlighting Watch Out for the Automobile, now streaming for free through <a href="https://kari.boo/">Kariboo</a>. Whether you're a long-time fan of the film or experiencing it for the first time, <a href="https://kari.boo/">Kariboo</a> allows you to transform any space into a customizable viewing environment that lets you decide how and where to watch your favorite films.
+
+<a href="https://kari.boo/">Kariboo</a> is redefining movie nights by turning your VR headset into the ultimate movie-watching experience. Dive into your favorite films with a full-blown immersive experience or keep one foot in reality. You can even invite friends to join the fun, watching together from anywhere in the world. Whether it’s a solo adventure into new cinematic worlds or a shared laugh-fest over popcorn with pals, <a href="https://kari.boo/">Kariboo</a> brings it all directly to you, no matter where you are!
 
 <div class="videoWrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/S8wQ6Szlwkw?si=Jkibe-raLWK9uMYP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-At Kariboo, we’re committed to making high-quality entertainment accessible and free. You can stream Watch Out for the Automobile at no cost, enjoying a cinema-like experience from the comfort of your own space. Whether you’re at home or on the go, as long as you have your VR headset, a captivating cinematic adventure is just a few clicks away.
+At <a href="https://kari.boo/">Kariboo</a>, we're all about bringing top-notch entertainment to you for free. Dive into Watch Out for the Automobile without spending a dime and enjoy a cinema-like experience from the comfort of your own space. Whether you’re at home or on the go, as long as you have your VR headset, a captivating cinematic adventure is just a few clicks away.
 
 Getting started is easy:
-
-1. Download the app: Available on major VR platforms, Kariboo is easy to set up. Just install the app from your VR device's app store.
+1. Download the app: Available on major VR platforms, <a href="https://kari.boo/">Kariboo</a> is easy to set up. Just install the app from your VR device's app store.
 2. Browse the library: Registration is free and you can immediately browse through an extensive collection of films, including classics, blockbusters, and hidden gems.
 3. Select a movie: Find Watch Out for the Automobile in the library and get ready to watch.
 4. Enjoy Your Movie: Sit back, relax, and start streaming for free—you're in control of your viewing experience.
 
-Join us at Kariboo and experience Watch Out for the Automobile today. Happy viewing!
+Join us at <a href="https://kari.boo/">Kariboo</a> and stream Watch Out for the Automobile for free today. Happy viewing!
 
 <style>
 .videoWrapper {
   position: relative;
   padding-bottom: 56.25%;
-  /* 16:9 */
-  padding-top: 0px;
   height: 0;
 }
 .videoWrapper iframe {

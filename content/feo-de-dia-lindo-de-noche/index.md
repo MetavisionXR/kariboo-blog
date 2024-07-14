@@ -4,25 +4,84 @@ date = "2024-07-08"
 +++
 <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 
-Experience Feo de dia, lindo de noche Like Never Before with Kariboo!
+Immerse yourself in entertainment with <a href="https://kari.boo/">Kariboo</a>!
 
 <img src="https://filmhub-poster-server.b-cdn.net/89a9-e77b_feo_de_dia_lindo_de_noche_16x9.jpg" alt="movie poster" loading="lazy">
 
-Step into a new dimension of movie watching with Kariboo, our innovative XR streaming app that brings your favorite films directly to your virtual reality headset. This week, we're highlighting Feo de dia, lindo de noche, now available for streaming directly through Kariboo. Whether you're a long-time fan of the film or experiencing it for the first time, Kariboo allows you to transform any space into your own private cinema, offering a customizable viewing environment where you decide how and where you watch your movies.
+<table>
+  <tr>
+    <td style="padding: 0 10px 0 0; vertical-align: top;">Title</td>
+    <td>Feo de dia, lindo de noche</td>
+  </tr>
+  <tr>
+    <td style="padding: 0 10px 0 0; vertical-align: top;">Description</td>
+    <td>An enchanted spell turns an average man into a handsome and dashing "Ladies Man" from 8 pm to midnight, but problems arise when he meets the woman of his dreams and falls in love.</td>
+  </tr>
+  <tr>
+    <td style="padding: 0 10px 0 0; vertical-align: top;">Release&nbsp;Year</td>
+    <td>2012</td>
+  </tr>
+  <tr>
+    <td style="padding: 0 10px 0 0; vertical-align: top;">Running&nbsp;Time</td>
+    <td>99 minutes</td>
+  </tr>
 
-hellohttps://vz-fb5092e4-932.b-cdn.net/cf6ce6a5-4f10-4ee4-a9ff-9819b93772a4/playlist.m3u8world
-<video id="video" width="100%" controls></video>
+[//]: # (  <tr>)
 
-At Kariboo, we’re committed to making high-quality entertainment accessible and free. You can stream Feo de dia, lindo de noche at no cost, enjoying a cinema-like experience from the comfort of your own space. Whether you’re at home or on the go, as long as you have your VR headset, a captivating cinematic adventure is just a few clicks away.
+[//]: # (    <td style="padding: 0 7px 0 0;"></td>)
+
+[//]: # (    <td></td>)
+
+[//]: # (  </tr>)
+
+[//]: # (  <tr>)
+
+[//]: # (    <td style="padding: 0 7px 0 0;">GeForce GTX 1080</td>)
+
+[//]: # (    <td></td>)
+
+[//]: # (  </tr>)
+
+[//]: # (  <tr>)
+
+[//]: # (    <td style="padding: 0 7px 0 0;">GeForce RTX 2060</td>)
+
+[//]: # (    <td></td>)
+
+[//]: # (  </tr>)
+
+[//]: # (  <tr>)
+
+[//]: # (    <td style="padding: 0 7px 0 0;">GeForce RTX 4090</td>)
+
+[//]: # (    <td></td>)
+
+[//]: # (  </tr>)
+
+[//]: # (  <tr>)
+
+[//]: # (    <td style="padding: 0 7px 0 0;"><a href="https://renderlab.io">RenderLab.io</a></td>)
+
+[//]: # (    <td> for <b></b></td>)
+
+[//]: # (  </tr>)
+</table>
+
+Step into a new dimension of movie watching with <a href="https://kari.boo/">Kariboo</a>, our fun XR streaming app that transforms your space into your own private movie palace! This week, we're highlighting Feo de dia, lindo de noche, now streaming for free through <a href="https://kari.boo/">Kariboo</a>. Whether you're a long-time fan of the film or experiencing it for the first time, <a href="https://kari.boo/">Kariboo</a> allows you to transform any space into a customizable viewing environment that lets you decide how and where to watch your favorite films.
+
+<a href="https://kari.boo/">Kariboo</a> is redefining movie nights by turning your VR headset into the ultimate movie-watching experience. Dive into your favorite films with a full-blown immersive experience or keep one foot in reality. You can even invite friends to join the fun, watching together from anywhere in the world. Whether it’s a solo adventure into new cinematic worlds or a shared laugh-fest over popcorn with pals, <a href="https://kari.boo/">Kariboo</a> brings it all directly to you, no matter where you are!
+
+<video id="video" width="100%" controls muted></video>
+
+At <a href="https://kari.boo/">Kariboo</a>, we're all about bringing top-notch entertainment to you for free. Dive into Feo de dia, lindo de noche without spending a dime and enjoy a cinema-like experience from the comfort of your own space. Whether you’re at home or on the go, as long as you have your VR headset, a captivating cinematic adventure is just a few clicks away.
 
 Getting started is easy:
-
-1. Download the app: Available on major VR platforms, Kariboo is easy to set up. Just install the app from your VR device's app store.
+1. Download the app: Available on major VR platforms, <a href="https://kari.boo/">Kariboo</a> is easy to set up. Just install the app from your VR device's app store.
 2. Browse the library: Registration is free and you can immediately browse through an extensive collection of films, including classics, blockbusters, and hidden gems.
 3. Select a movie: Find Feo de dia, lindo de noche in the library and get ready to watch.
 4. Enjoy Your Movie: Sit back, relax, and start streaming for free—you're in control of your viewing experience.
 
-Join us at Kariboo and experience Feo de dia, lindo de noche today. Happy viewing!
+Join us at <a href="https://kari.boo/">Kariboo</a> and stream Feo de dia, lindo de noche for free today. Happy viewing!
 
   
 <script>

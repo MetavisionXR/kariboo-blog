@@ -14,7 +14,7 @@ supabase_service_role_key = os.environ['SUPABASE_SERVICE_ROLE_KEY']
 client: Client = create_client(supabase_url=supabase_url, supabase_key=supabase_service_role_key)
 
 response = client.table('movie_catalog')\
-    .select("title, poster_landscape_url, trailer_url")\
+    .select("title, poster_landscape_url, trailer_url, description, year, running_time")\
     .eq("active", True)\
     .execute()
 
@@ -31,6 +31,9 @@ for idx, row in enumerate(tqdm(response.data)):
     movie_title = row["title"]
     poster_url = row["poster_landscape_url"]
     trailer_url = row["trailer_url"]
+    description = row["description"]
+    year = str(row["year"])
+    running_time = str(row["running_time"])
     if trailer_url == "":
         trailer_url = None
 
@@ -38,6 +41,9 @@ for idx, row in enumerate(tqdm(response.data)):
     template_data["movie_title"] = movie_title
     template_data["poster_url"] = poster_url
     template_data["trailer_url"] = trailer_url
+    template_data["description"] = description
+    template_data["year"] = year
+    template_data["running_time"] = running_time
 
     with open("template.md", "r") as file:
         template = Template(file.read(), trim_blocks=True)
