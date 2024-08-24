@@ -13,9 +13,8 @@ supabase_service_role_key = os.environ['SUPABASE_SERVICE_ROLE_KEY']
 
 client: Client = create_client(supabase_url=supabase_url, supabase_key=supabase_service_role_key)
 
-response = client.table('movie_catalog')\
+response = client.table('active_movies_view')\
     .select("title, poster_landscape_url, trailer_url, description, year, running_time")\
-    .eq("active", True)\
     .execute()
 
 slugs = []
